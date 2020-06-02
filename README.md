@@ -14,8 +14,8 @@
 
 
 
-## Text tutorial
-Use the [GreaseMonkey] ( https://chrome.google.com/webstore/detail/survivio-custom-cursor/iljjmgdgompnplppbloeecnhaicdinmm?hl=en  ) extension.
+## Text tutorial 
+Use the [chrome extensions] ( https://chrome.google.com/webstore/detail/survivio-custom-cursor/iljjmgdgompnplppbloeecnhaicdinmm?hl=en  ) extension.
 
  click on [this and choose **Install**.
 
